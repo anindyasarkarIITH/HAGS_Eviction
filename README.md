@@ -24,7 +24,7 @@ python train.py -- model MulT -- model_search Model_search --nlevels 5 --num_hea
 ```
 
 To customize the cross-modal fusion, set --aonly --vonly --lonly parameters accordingly.
-## Eval
+## Evaluation
 
 To test our proposed method, please execute
 ```
