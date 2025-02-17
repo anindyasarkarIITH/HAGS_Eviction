@@ -1,9 +1,10 @@
 ## Official Repository of the paper titled "Active Geospatial Search for Efficient Tenant Eviction Outreach"
 We propose a hierarchical Reinforcement Learning framework for efficient tenant eviction outreach.
 
-<img src="./figures/framework.png" alt="WAMI_Positives" style="width: 200p;"/>
+<img src="./figures/HAGS.png" alt="WAMI_Positives" style="width: 200p;"/>
+
 ## Train 
-To train our proposed method, please execute
+To train our proposed method, please execute:
 ```
 Python train.py
 ```
